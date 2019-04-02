@@ -1,5 +1,0 @@
-tree
-vim
-nano
-emacs
-man
