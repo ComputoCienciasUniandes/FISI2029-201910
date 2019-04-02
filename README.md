@@ -3,8 +3,7 @@ Laboratorio de Métodos Computacionales - Primer Semestre 2019
 
 
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ComputoCienciasUniandes/FISI2029-201910/master?urlpath=lab)
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ComputoCienciasUniandes/FISI2029-201910/master)
 Material del curso Laboratorio de Métodos Computacionales de Uniandes
 
 
